@@ -2,20 +2,20 @@
 
 TEAM FOCUS concepts by Paul N. Friga published in McKinsey Engagement.
 
-TALK is interpersonal:
+TEAM means:
 * Talk
 * Evaluate
 * Assist
 * Motivate
 
-FOCUS is analytical:
+FOCUS means:
 * Frame
 * Organize
 * Collect
 * Understand
 * Synthesize
  
-## TALK
+## TALK is interpersonal
 
 * Talk: One of the most important elements of high-quality team problem solving is establishing very clear channels of communication. This chapter discusses special communication tools and provides guidance concerning best-process communication, inclusion of important constituents outside of the core team, and tips on managing interpersonal dialogue. The chapter also features a special section about listening.
 
@@ -25,7 +25,7 @@ FOCUS is analytical:
 
 * Motivate: The last element of the model's interpersonal component involves very specific strategies for motivation. One of the most important considerations is the realization that team members are motivated by different factors. Accordingly, engaging in informal, candid conversations at the beginning of the project about what those unique motivators are and paying close attention to individuals' drivers will go a long way. Similarly, the best teams are those that provide positive recognition for individual contributions and take adequate time to celebrate as a group (many of us seem to do less and less of this the older we get). The second component of the model relates to the core analytical elements of successful project management.
 
-## FOCUS
+## FOCUS is analytical
 
 * Frame: The first element in the FOCUS component is widely regarded as the most important in the entire model. Essentially, framing the problem (before you begin extensive data collection!) involves identifying the key question that you are studying, drawing issue trees for potential investigation, and developing hypotheses for testing during the project. Good framing translates into more effective problem solving, as you will be ensuring that the work you are doing will translate into high-impact results—the ultimate measure of effectiveness.
 
