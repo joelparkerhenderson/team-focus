@@ -15,7 +15,7 @@ FOCUS means:
 * Understand
 * Synthesize
  
-## TALK is interpersonal
+## TEAM is interpersonal
 
 * Talk: One of the most important elements of high-quality team problem solving is establishing very clear channels of communication. This chapter discusses special communication tools and provides guidance concerning best-process communication, inclusion of important constituents outside of the core team, and tips on managing interpersonal dialogue. The chapter also features a special section about listening.
 
