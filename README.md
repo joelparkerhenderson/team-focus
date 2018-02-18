@@ -54,13 +54,16 @@ The first element in the FOCUS component is widely regarded as the most importan
 
 This element is a boring but necessary step in preparing the team for efficient problem solving. All teams organize in some manner or another, but my research suggests that more efficient teams organize around content hypotheses with the end in mind. Unfortunately, in many cases, there seems to be a default approach that compels teams to organize quickly around the buckets that seem to surface most easily, rather than on the basis of potential answers to the key question under study.
 
+
 ### Collect
 
 The next element of the model provides guidance that leads to the collection of relevant data, avoiding the overcollection of data that are not useful. The most efficient teams are those that can look at the two piles of data collected and smile as they realize that the relevant data (pile 1) far outweigh the irrelevant information (pile 2) because the team continuously analyzed the difference.
 
+
 ### Understand
 
 As the team gathers data, these data must be evaluated for their potential contribution to proving or disproving the hypotheses. At McKinsey, the term used on an almost daily basis is "so what?"—what is the meaning of the insight from these data for the project, and ultimately for the client?
+
 
 ### Synthesize
 
