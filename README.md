@@ -1,3 +1,12 @@
+<!--
+  * browser: team-focus
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 1.5.0
+  * updated: 2018-02-24T03:07:24Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # TEAM FOCUS
 
 TEAM FOCUS is a powerful toolkit for more efficient and effective team problem solving. TEAM FOCUS concepts are by Paul N. Friga and published in McKinsey Engagement. 
