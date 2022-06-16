@@ -1,8 +1,8 @@
 <!--
   * browser: team-focus
   * tracker: f44c30d1b876f8987cf78c727e573542
-  * version: 1.5.0
-  * updated: 2018-02-24T03:07:24Z
+  * version: 1.5.1
+  * updated: 2022-06-16T23:16:21Z
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
@@ -83,5 +83,4 @@ The final element in the model is to synthesize the information into a compellin
 
 Source: Paul N. Friga, The McKinsey Engagement : A Powerful Toolkit For More Efficient and Effective Team Problem Solving. McGraw-Hill. 2009
 
-See http://faculty.msb.edu/homak/homahelpsite/webhelp/Content/TEAM%20FOCUS%20-%20McKinsey%20Engagement.htm
-
+[Summary link](https://web.archive.org/web/20190528003412/http://faculty.msb.edu:80/homak/homahelpsite/webhelp/Content/TEAM%20FOCUS%20-%20McKinsey%20Engagement.htm)
